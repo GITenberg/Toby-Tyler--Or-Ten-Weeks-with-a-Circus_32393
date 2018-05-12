@@ -14,6 +14,8 @@ creator:
 description: Follows the adventures of a young boy who runs away to join the circus
   and discovers, contrary to his expectations, that circus life is not always carefree
   and happy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32393#Toby-Tyler--Or-Ten-Weeks-with-a-Circus
 gutenberg_issued: '2010-05-15'
 gutenberg_type: Text
 identifiers:
